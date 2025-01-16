@@ -1,16 +1,20 @@
 # KAIST Remote Library Chrome Extension
 
-Chrome extension providing access to KAIST remote library.
+Chrome extension providing off-campus access to e-resources (e-journals, e-books, web DBs) for members of KAIST (https://library.kaist.ac.kr) via library proxy. The extension is for KAIST members only (requires authentication).
+
+![](./chrome-store/thumb-large.001.png)
 
 ## How to use it
 
 Once installed, visit a page like the [ACM Digital Library](https://dl.acm.org) or [IEEE Xplore](https://ieeexplore.ieee.org). If the website asks for institutional login, click the extension icon button, and you will be redirected to the same page as if you were on the KAIST campus.
 
+![](./chrome-store/screenshots.001.png)
+
 ## How to install the extension
 
 ### Option 1
 
-Head to the Chrome store and install from there.
+Head to the Chrome Store and search for KAIST Remote Library. Install it from there.
 
 ### Option 2
 
